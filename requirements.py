@@ -2,5 +2,5 @@ streamlit
 wordcloud
 matplotlib
 pillow
-numpyy
-konlp
+numpy
+konlpy
